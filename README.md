@@ -346,15 +346,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📞 Support
-
-For issues, questions, or feedback:
-- Open an issue on GitHub
-- Contact: support@vcardiocare.com
-- Documentation: [Wiki](https://github.com/yourusername/vcardiocare/wiki)
-
----
-
 ## 🙏 Acknowledgments
 
 - Flutter team for the amazing framework
