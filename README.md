@@ -343,7 +343,7 @@ Contributions are welcome! Please follow these guidelines:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
+Author of this project is Veda Popat (github: [Veda103](https://github.com/Veda103/)
 ---
 
 ## 🙏 Acknowledgments
