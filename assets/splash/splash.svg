@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1920">
+  <!-- Background -->
+  <rect width="1080" height="1920" fill="#FFFEF8"/>
+  
+  <!-- Decorative gradient blob top -->
+  <circle cx="100" cy="200" r="150" fill="#E8A89A" opacity="0.3"/>
+  <circle cx="1000" cy="300" r="120" fill="#D4B5A0" opacity="0.2"/>
+  
+  <!-- App Icon -->
+  <g transform="translate(390, 600)">
+    <defs>
+      <linearGradient id="bgGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#E8A89A;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#D8937F;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <rect width="300" height="300" rx="70" fill="url(#bgGradient2)"/>
+    <path d="M 150 220 C 110 190 80 170 80 145 C 80 125 93 110 112 110 C 122 110 130 115 150 130 C 170 115 178 110 188 110 C 207 110 220 125 220 145 C 220 170 190 190 150 220 Z" 
+          fill="white" opacity="0.95"/>
+  </g>
+  
+  <!-- App Name -->
+  <text x="540" y="950" font-size="56" font-weight="bold" font-family="Segoe UI, Arial, sans-serif" 
+        text-anchor="middle" fill="#1C1A18">VCardioCare</text>
+  
+  <!-- Tagline -->
+  <text x="540" y="1020" font-size="24" font-family="Segoe UI, Arial, sans-serif" 
+        text-anchor="middle" fill="#7A6E68">Heart Health Risk Predictor</text>
+  
+  <!-- Loading indicator dots -->
+  <circle cx="480" cy="1150" r="8" fill="#E8A89A" opacity="0.3"/>
+  <circle cx="540" cy="1150" r="8" fill="#E8A89A"/>
+  <circle cx="600" cy="1150" r="8" fill="#E8A89A" opacity="0.3"/>
+</svg>
